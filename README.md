@@ -54,4 +54,3 @@ El flujo de trabajo es orquestado totalmente por **AWS Step Functions** y sigue 
 
 ---
 *Proyecto realizado como parte del curso de Administración de servidores y redes*
-nkx-phzx-zyo
